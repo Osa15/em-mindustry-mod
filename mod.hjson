@@ -1,0 +1,6 @@
+name: "arkanium"
+displayName: "[RED]A[YELLOW]r[GREEN]k[CYAN]a[BLUE]n[PURPLE]ium" //what displays in the mod selection menu
+author: "[RED]Fisakura"
+description: "update: [GREEN]Arkanium walls[]\nchangelog: [CYAN]https://github.com/Fisakura/Arkanium"
+version: "L 0.1.2"
+minGameVersion: "103"

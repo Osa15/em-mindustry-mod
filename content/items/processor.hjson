@@ -1,0 +1,5 @@
+type: material
+name: Processor
+description: logical computation block.
+cost: 2.5
+color: 00ffcc

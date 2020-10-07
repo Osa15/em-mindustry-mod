@@ -1,0 +1,5 @@
+type: material
+name: Fireball
+description: hot stuff.
+cost: 2.5
+color: fff900

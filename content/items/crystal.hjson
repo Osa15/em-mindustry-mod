@@ -1,0 +1,5 @@
+type: material
+name: Crystal
+description: component capable of conserving mana and energy.
+cost: 2.5
+color: ae7d00

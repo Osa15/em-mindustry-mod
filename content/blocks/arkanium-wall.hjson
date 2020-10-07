@@ -1,0 +1,10 @@
+name: Arkanium Wall
+description: not the most durable, but for the first time it will go.
+type: Wall
+health: 500
+size: 1
+requirements: [
+  arkanium/5
+]
+category: defense
+research: copper-wall

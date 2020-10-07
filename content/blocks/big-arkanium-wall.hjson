@@ -1,0 +1,10 @@
+name: Big Arkanium Wall
+description: not the most durable, but for the first time it will go.
+type: Wall
+health: 2000
+size: 2
+requirements: [
+  arkanium/20
+]
+category: defense
+research: arkanium-wall
