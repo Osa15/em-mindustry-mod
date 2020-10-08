@@ -1,0 +1,29 @@
+type: GenericSmelter
+name: Arkanium chipmaker
+description: creates an arcanium processor
+liquidCapacity: 0
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 1
+  items: {
+    items: [
+      arkanium/1
+      arkanium-crystal/5
+    ]
+  }
+}
+requirements: [
+  copper/50
+  arkanium/25
+  arkanium-crystal/10
+]
+category: crafting
+research: arkanium-crucible
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: arkanium-processor/1

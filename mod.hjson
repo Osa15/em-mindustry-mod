@@ -1,6 +1,6 @@
 name: "arkanium"
 displayName: "[RED]A[YELLOW]r[GREEN]k[CYAN]a[BLUE]n[PURPLE]ium" //what displays in the mod selection menu
-author: "[RED]Fisakura"
-description: "update: [GREEN]Arkanium walls[]\nchangelog: [CYAN]https://github.com/Fisakura/Arkanium"
-version: "L 0.1.2"
+author: "[PURPLE]Fis[CYAN]akura"
+description: "mini update log:\n [PURPLE]blocks[]:\n- arkanium crucible\n- arkanum cooler\n- arkanium forge\n- arkanium chipmaker\n[CYAN]items:[]\n-arkanium crystal\n-arkanium processor\nchangelog:\n[CYAN]github[]: Fisakura/Arkanium"
+version: "0.2 [YELLOW]L"
 minGameVersion: "103"

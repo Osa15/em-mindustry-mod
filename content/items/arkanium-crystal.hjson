@@ -1,0 +1,5 @@
+type: material
+name: Arkanium crystal
+description: component capable of conserving energy.
+cost: 3
+color: fffc00

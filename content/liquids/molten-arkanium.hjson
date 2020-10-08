@@ -1,0 +1,6 @@
+name: Molten Arkanium
+description: Imagine silver, but not solid at all.
+temperature: 0.9
+viscosity: 0.8
+effect: melting
+color: c3cbdb

@@ -1,0 +1,27 @@
+type: GenericSmelter
+name: Arkanium filler
+description: fills the arcanium with energy to produce a crystal
+liquidCapacity: 0
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 1
+  items: {
+    items: [
+      arkanium/5
+    ]
+  }
+}
+requirements: [
+  copper/50
+  silicon/25
+]
+category: crafting
+research: arkanium-crucible
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: arkanium-crystal/1

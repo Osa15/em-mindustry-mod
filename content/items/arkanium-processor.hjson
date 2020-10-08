@@ -1,5 +1,5 @@
 type: material
-name: Processor
+name: Arkanium processor
 description: logical computation block.
-cost: 2.5
-color: 00ffcc
+cost: 3
+color: fffc00

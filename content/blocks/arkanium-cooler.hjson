@@ -1,0 +1,31 @@
+type: GenericSmelter
+name: Arkanium cooler
+description: fills the arcanium with energy to produce a crystal
+liquidCapacity: 50
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 1
+  liquid: {
+    liquid: molten-arkanium
+    amount: 0.1
+  }
+  items: {
+    items: [
+      copper/1
+    ]
+  }
+}
+requirements: [
+  copper/50
+  silicon/25
+]
+category: crafting
+research: arkanium-crucible
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: arkanium/1
