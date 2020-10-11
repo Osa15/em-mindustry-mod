@@ -1,0 +1,10 @@
+type: Conveyor
+name: Arkamium conveyor
+description: simple Arkanium conveyor.
+requirements: [
+  arkanium/2
+  arkanium-crystal/1
+]
+category: distribution
+speed: 0.15
+research: titanium-conveyor

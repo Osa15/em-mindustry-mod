@@ -1,0 +1,15 @@
+type: Battery
+name: Arkanium battery
+descryption: Simaple arkanium battery
+size: 1
+hasPower: true
+consumes: {
+  powerBuffered: 5000
+}
+requirements: [
+  arkanium/25
+  arkanium-crystal/5
+  arkanium-processor/1
+]
+category: power
+research: battery-large

@@ -1,6 +1,6 @@
 name: "arkanium"
 displayName: "[RED]A[YELLOW]r[GREEN]k[CYAN]a[BLUE]n[PURPLE]ium" //what displays in the mod selection menu
 author: "[PURPLE]Fis[CYAN]akura"
-description: "mini update log:\n [PURPLE]blocks[]:\n- arkanium crucible\n- arkanum cooler\n- arkanium forge\n- arkanium chipmaker\n[CYAN]items:[]\n-arkanium crystal\n-arkanium processor\nchangelog:\n[CYAN]github[]: Fisakura/Arkanium"
-version: "0.2 [YELLOW]L"
+description: "update:\n [MAGENTA]blocks:[]\n- arkanium drill\n- arkanium turret\n- arkanium wault\n[GREEN]power[]\n- arkanium panel\n- arkanium generator\n- arkanium battery\n- arkanium large battery\nchangelog:\n[CYAN]github[]: Fisakura/Arkanium"
+version: "1.0 [CYAN]R"
 minGameVersion: "103"

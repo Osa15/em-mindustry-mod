@@ -1,0 +1,16 @@
+name: Arkanium Drill
+description: A very strange drill.
+type: Drill
+size: 3
+tier: 3
+drillTime: 250
+consumes: {
+  power: 2
+}
+requirements: [
+  arkanium/50
+  arkanium-crystal/25
+  arkanium-processor/5
+]
+category: production
+research: laser-drill

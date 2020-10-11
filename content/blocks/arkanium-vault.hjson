@@ -1,0 +1,14 @@
+name: Arkanium Vault
+description:simple roomy storage.
+type: Vault
+itemCapacity: 1500
+hasItems: true
+health: 2000
+size: 3
+requirements: [
+  arkanium/50
+  arkanium-crystal/150
+  arkanium-processor/15
+]
+category: effect
+research: vault

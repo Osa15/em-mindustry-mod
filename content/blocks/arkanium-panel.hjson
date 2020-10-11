@@ -1,0 +1,12 @@
+type: SolarGenerator
+name: Arkanium Panel
+description: extracts energy from the sun.
+size: 2
+powerProduction: 0.5
+requirements: [
+  arkanium/25
+  arkanium-crystal/5
+  arkanium-processor/1
+]
+category: power
+research: arkanium-crucible

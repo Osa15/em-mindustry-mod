@@ -1,0 +1,23 @@
+type: SingleTypeGenerator
+name: Arkanium Generator
+description: Magically produces power from arkanium crystal. Don't ask.
+size: 2
+hasPower: true
+hasItems: true
+itemDuration: 5
+powerProduction: 1
+consumes: {
+  items: {
+    items: [
+      arkanium-crystal/1
+    ]
+    optional: true
+  }
+}
+requirements: [
+  arkanium/50
+  arkanium-crystal/10
+  arkanium-processor/1
+]
+category: power
+research: arkanium-crucible
